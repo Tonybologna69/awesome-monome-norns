@@ -1,4 +1,54 @@
+> This is a work in progress for an actual walk through / onboarding / introduction into the world of Norns. My journey started November 2022 after I completed the DIY Fates build. The resources are abundant, but scatteredd and unorganized. So, this will be were I compile the useful resources are tools for the Norns. 
 
+> tutorial https://github.com/p3r7/awesome-monome-norns
+
+
+- learn
+https://monome.org/docs/norns/norns-first.pdf
+https://llllllll.co/t/approaching-norns/13236
+https://monome.org/docs/norns/
+
+- 1st scripts
+https://llllllll.co/t/awake/21022
+https://llllllll.co/t/ash-a-small-collection/21349
+https://monome.org/docs/norns/community-scripts/
+
+- wiki & community
+https://norns.community/
+https://llllllll.co/t/off-map-discoveries-a-norns-script-excavation-thread/48001/1
+
+- more scripts
+https://llllllll.co/t/library-norns-package-manger-norns-community-bot-to-help-make-sure-its-in-all-the-places/47789/10
+https://github.com/p3r7/awesome-monome-norns
+https://monome.org/docs/grid/app/sum/
+
+- scripting
+https://llllllll.co/t/norns-tutorial/23241/72
+https://monome.org/docs/norns/studies/
+https://llllllll.co/t/norns-softcut-studies/23585
+https://monome.org/docs/norns/reference/
+https://norns.community/en/contributor-instructions
+
+- forum
+https://llllllll.co/tag/norns
+
+- help
+https://monome.org/docs/norns/help/
+
+- no grid or arc?
+https://llllllll.co/t/toga-touchosc-grid-and-arc-controller-for-monome-norns/47902/63
+https://llllllll.co/t/midigrid-use-launchpads-midi-grid-controllers-with-norns/42336
+
+- grid to midi
+https://github.com/p3r7/gridkeys
+
+- useful commands
+connect from explore \\IP
+connect from browser norns.local
+restart from device push and hold K3 then K2 then K1 for 10 seconds.
+restart from matron type ;restart
+install from matron ;install (github url)
+_norns.screen_export_png("/home/we/dust/<FILENAME>.png")
 
 > This document will not be updated anymore, being replaced by [_norns.community_](https://norns.community/), a community-driven wiki ([launch post](https://llllllll.co/t/norns-community/43793)).
 >
